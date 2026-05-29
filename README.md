@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech 4th Year – Artificial Intelligence & Machine Learning**  
+🎓 **B.Tech Graduate – Artificial Intelligence & Machine Learning**  
 🤖 Passionate about **AI, ML & Generative AI**  
 ⚙️ Actively learning **DevOps, CI/CD & Cloud fundamentals**  
 🌱 Love building **real-world, scalable, student-friendly projects**  
@@ -24,8 +24,8 @@
 
 ## 📊 GitHub Stats
 
-![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-yenduri&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-yenduri&layout=compact&theme=tokyonight)
+![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-sai-yenduri&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-sai-yenduri&layout=compact&theme=tokyonight)
 
 ---
 
